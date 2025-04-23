@@ -1,0 +1,15 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\bin\Debug\net9.0\PO_Zwierzeta.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\bin\Debug\net9.0\PO_Zwierzeta.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\bin\Debug\net9.0\PO_Zwierzeta.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\bin\Debug\net9.0\PO_Zwierzeta.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\bin\Debug\net9.0\PO_Zwierzeta.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.sourcelink.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\refint\PO_Zwierzeta.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\PO_Zwierzeta.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Zwierzeta\obj\Debug\net9.0\ref\PO_Zwierzeta.dll
